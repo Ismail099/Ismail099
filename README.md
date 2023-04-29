@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismail099
+- 👋 Hi, I’m @Haidar Îbo
 - 👀 I’m interested in everything conserning Computer Science (Software Development, Web Development, Cyber Security, AI & ML, etc.) 
 - 🌱 I’m currently learning C++, Qt, Python, PyQt, Web-Dev (HTML, CSS, JavaScript, PHP), Software Development, Databases
 - 📫 How to reach me HaidarIbo@protonmail.com
